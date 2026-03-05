@@ -1,5 +1,3 @@
-# Replace the broken server.py inline
-cat > server.py << 'EOF'
 #!/usr/bin/env python3
 import http.server, os, sys
 
